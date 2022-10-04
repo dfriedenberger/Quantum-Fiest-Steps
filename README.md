@@ -1,4 +1,4 @@
-# Quantum-Fiest-Steps
+# Quantum-First-Steps
 
 ## Installation
 ```
